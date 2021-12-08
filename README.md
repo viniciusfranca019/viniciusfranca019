@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciusfranca019.viniciusfranca019)
 
 </p>
-<div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: im From Salvador, Brazil and Im a Full-stack Dev.
+<div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: im From Salvador, Brazil and Im a Full-stack Dev and Data Scientist.
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJS, Python, Elixir 
+- 🌱 I’m currently learning NodeJS, Python, PHP
 
-- 💬 Ask me about: Math and NodeJS
+- 💬 Ask me about: Math, NodeJS and data science
   
 - 📫 How to reach me: viniciusfrancas019@gmail.com
 
