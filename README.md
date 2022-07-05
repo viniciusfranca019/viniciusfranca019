@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 <a href= https://github.com/viniciusfranca019?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/viniciusfranca019?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/viniciusfranca019?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-  ---
+___
 <h3> Connect with me </h3>
 <a href = 'https://www.linkedin.com/in/vinicius-frança-3519991bb'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
