@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJS, Python, PHP
+- 🌱 I’m currently learning TypeScript, Go, Solution archtecture
 
-- 💬 Ask me about: Math, NodeJS and data science
+- 💬 Ask me about: Math and Data
   
 - 📫 How to reach me: viniciusfrancas019@gmail.com
 
