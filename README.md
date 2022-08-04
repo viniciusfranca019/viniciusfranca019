@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciusfranca019.viniciusfranca019)
 
 </p>
-<div size='100px'> Thank You for taking the time to view my GitHub Profile :smile: im From Salvador, Brazil and Im a Full-stack Dev and Data Scientist.
+<div size='100px'> Thank You for taking the time to view my GitHub Profile :smile: im From Salvador, Brazil and Im a Software Engineer.
 </div>
 
 <h2> About Me </h2>
