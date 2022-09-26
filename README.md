@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfranca019&hide=html,TeX,Jupyter Notebook&layout=compact&theme=midnight-purple" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfranca019&hide=html&layout=compact&theme=midnight-purple" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusfranca019&theme=midnight-purple"/></td>
     </tr>
   </table>
