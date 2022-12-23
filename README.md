@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciusfranca019.viniciusfranca019)
 
 </p>
-<div size='100px'> Thank You for taking the time to view my GitHub Profile :smile: im From Salvador, Brazil and Im a Software Engineer.
+<div size='100px'> Thank You for taking the time to view my GitHub Profile :smile: im From Salvador, Brazil and Im a Software Engineer and a data engineering enthusiastic.
 </div>
 
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning TypeScript, Go, Solution archtecture
+- 🌱 I’m currently learning TypeScript, Go, Cloud Solution archtecture and data engineering
 
-- 💬 Ask me about: Math and Data
+- 💬 Ask me about: Math, Data, XP and DevOps
   
 - 📫 How to reach me: viniciusfrancas019@gmail.com
 
